@@ -1,0 +1,210 @@
+Which keyword is used to inherit a class in Java?
+this
+super
+extends
+implements
+3
+---
+Java is a ____ language.
+Procedure oriented
+Object oriented
+Assembly
+Machine
+2
+---
+Which method is the entry point of a Java program?
+start()
+run()
+main()
+init()
+3
+---
+Which keyword is used to create an object in Java?
+class
+new
+object
+create
+2
+---
+Which data type is used to store whole numbers?
+float
+double
+int
+char
+3
+---
+Which symbol is used to end a statement in Java?
+:
+;
+.
+,
+2
+---
+Which keyword is used to define a constant in Java?
+final
+const
+static
+define
+1
+---
+Which package is imported by default in Java?
+java.util
+java.lang
+java.io
+java.net
+2
+---
+Which keyword is used for exception handling?
+catch
+throw
+try
+finally
+3
+---
+Which access modifier makes a member visible everywhere?
+private
+protected
+default
+public
+4
+---
+Which operator is used for inheritance?
+extends
+implements
+inherits
+instanceof
+1
+---
+Which keyword is used to stop a loop?
+exit
+break
+stop
+return
+2
+---
+Which loop is guaranteed to execute at least once?
+for
+while
+do-while
+foreach
+3
+---
+Which data type stores true or false values?
+int
+char
+boolean
+float
+3
+---
+Which keyword is used to call parent class constructor?
+this
+super
+parent
+base
+2
+---
+Which method is used to compare strings?
+compare()
+equals()
+==
+match()
+2
+---
+Which of the following is not a primitive data type?
+int
+float
+String
+double
+3
+---
+Which keyword is used to inherit interfaces?
+extends
+implements
+interface
+inherit
+2
+---
+Which exception is thrown when array index is out of bounds?
+NullPointerException
+ArithmeticException
+ArrayIndexOutOfBoundsException
+IOException
+3
+---
+Which operator is used for logical AND?
+&
+&&
+||
+!
+2
+---
+Which keyword is used to exit a program?
+stop
+end
+exit()
+return
+3
+---
+Which class is the superclass of all classes?
+Object
+Class
+Main
+System
+1
+---
+Which keyword is used to define a package?
+package
+import
+namespace
+module
+1
+---
+Which stream is used for keyboard input?
+System.out
+System.in
+System.err
+Scanner
+2
+---
+Which keyword is used to prevent inheritance?
+final
+static
+private
+sealed
+1
+---
+Which method converts string to integer?
+parseInt()
+toInt()
+valueOf()
+convert()
+1
+---
+Which collection does not allow duplicate elements?
+List
+Set
+Map
+Array
+2
+---
+Which keyword is used to create a thread?
+thread
+Runnable
+extends Thread
+new Thread
+3
+---
+Which operator is used to compare two values?
+=
+==
+equals
+compare
+2
+---
+Which keyword is used to handle checked exceptions?
+throws
+catch
+try
+throw
+1
+---

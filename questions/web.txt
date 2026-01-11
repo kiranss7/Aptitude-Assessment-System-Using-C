@@ -1,0 +1,210 @@
+Which HTML tag is used to create a hyperlink?
+<link>
+<a>
+<href>
+<url>
+2
+---
+Which HTML tag is used to insert an image?
+<img>
+<pic>
+<image>
+<src>
+1
+---
+Which HTML tag is used for the largest heading?
+<h6>
+<h4>
+<h1>
+<head>
+3
+---
+Which attribute specifies the link destination in HTML?
+src
+href
+link
+url
+2
+---
+Which HTML tag is used to create an unordered list?
+<ol>
+<ul>
+<li>
+<list>
+2
+---
+Which tag is used to create a table row?
+<td>
+<th>
+<tr>
+<table>
+3
+---
+Which HTML tag is used to display a paragraph?
+<p>
+<para>
+<text>
+<pre>
+1
+---
+Which attribute is used to provide alternate text for images?
+title
+alt
+src
+name
+2
+---
+Which HTML tag is used to create a form?
+<form>
+<input>
+<textarea>
+<button>
+1
+---
+Which input type is used for passwords?
+text
+email
+password
+hidden
+3
+---
+Which CSS property is used to change text color?
+font-color
+text-color
+color
+background-color
+3
+---
+Which CSS property controls the text size?
+text-size
+font-size
+size
+font-style
+2
+---
+Which CSS property is used to change background color?
+bgcolor
+background
+background-color
+color
+3
+---
+Which CSS property is used to make text bold?
+font-weight
+text-style
+bold
+font-style
+1
+---
+Which CSS property is used to center text?
+align
+text-align
+center
+float
+2
+---
+Which symbol is used to select an ID in CSS?
+.
+#
+*
+@
+2
+---
+Which symbol is used to select a class in CSS?
+#
+.
+*
+@
+2
+---
+Which HTML tag is used to embed JavaScript?
+<js>
+<script>
+<javascript>
+<code>
+2
+---
+Which attribute is used to link an external CSS file?
+src
+href
+rel
+type
+2
+---
+Which protocol is used for secure web communication?
+http
+ftp
+https
+smtp
+3
+---
+Which HTML tag is used to play video files?
+<media>
+<movie>
+<video>
+<audio>
+3
+---
+Which HTML tag is used to play audio files?
+<sound>
+<audio>
+<video>
+<mp3>
+2
+---
+Which HTTP method is used to send data securely?
+GET
+POST
+FETCH
+SEND
+2
+---
+Which status code means "Page Not Found"?
+200
+301
+404
+500
+3
+---
+Which tag is used to make text italic?
+<i>
+<b>
+<u>
+<strong>
+1
+---
+Which tag is used to make text bold?
+<i>
+<b>
+<u>
+<em>
+2
+---
+Which HTML element represents navigation links?
+<nav>
+<header>
+<section>
+<footer>
+1
+---
+Which CSS property controls element spacing inside border?
+margin
+padding
+border
+spacing
+2
+---
+Which CSS layout uses rows and columns?
+float
+flexbox
+grid
+table
+3
+---
+Which JavaScript keyword is used to declare a variable?
+var
+int
+define
+new
+1
+---

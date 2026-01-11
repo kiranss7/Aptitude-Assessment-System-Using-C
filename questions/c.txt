@@ -1,0 +1,210 @@
+Which symbol is used to end a statement in C?
+:
+;
+.
+,
+2
+---
+Which header file is required for printf()?
+<math.h>
+<stdlib.h>
+<stdio.h>
+<string.h>
+3
+---
+Which keyword is used to declare a constant in C?
+final
+constant
+const
+define
+3
+---
+What is the size of int data type (typically)?
+1 byte
+2 bytes
+4 bytes
+8 bytes
+3
+---
+Which loop executes at least once?
+for
+while
+do-while
+if
+3
+---
+Which operator is used to access address of a variable?
+*
+&
+/
+@
+2
+---
+Which function is used to read a character?
+scanf()
+getchar()
+gets()
+read()
+2
+---
+What is the correct syntax for main function?
+void main
+main()
+int main()
+start main()
+3
+---
+Which data type is used to store decimal values?
+int
+float
+char
+long
+2
+---
+Which keyword is used to return a value from function?
+break
+exit
+return
+stop
+3
+---
+Which operator has highest precedence?
++
+*
+()
+/
+3
+---
+Which of the following is a valid variable name?
+2num
+num-1
+_num
+num#
+3
+---
+What does sizeof() return?
+Address
+Value
+Size in bytes
+Data type
+3
+---
+Which header file is needed for malloc()?
+<stdio.h>
+<conio.h>
+<stdlib.h>
+<string.h>
+3
+---
+Which operator is used for logical AND?
+&
+&&
+||
+!
+2
+---
+What is the output of printf("%d", 5/2)?
+2
+2.5
+3
+Error
+1
+---
+Which keyword is used to exit a loop?
+stop
+break
+exit
+return
+2
+---
+Which of the following is a loop structure?
+switch
+if
+while
+goto
+3
+---
+Which format specifier is used for float?
+%d
+%f
+%c
+%lf
+2
+---
+What is the index of first element in array?
+0
+1
+-1
+Depends
+1
+---
+Which function compares two strings?
+strcat()
+strcmp()
+strcpy()
+strlen()
+2
+---
+Which operator increments value by 1?
++
+++
++=
+=+
+2
+---
+Which storage class gives global lifetime?
+auto
+register
+static
+extern
+4
+---
+Which keyword is used to define a structure?
+struct
+structure
+record
+class
+1
+---
+Which function is used to copy a string?
+strcmp()
+strlen()
+strcpy()
+strcat()
+3
+---
+What is the output of printf("%c", 65)?
+A
+65
+a
+Error
+1
+---
+Which pointer stores address of another pointer?
+int pointer
+double pointer
+char pointer
+void pointer
+2
+---
+Which keyword is used for conditional statement?
+for
+while
+if
+loop
+3
+---
+Which operator is used for modulus?
+/
+*
+%
+//
+3
+---
+Which statement is used to terminate a program?
+stop
+end
+exit()
+break
+3
+---

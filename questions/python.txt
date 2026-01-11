@@ -1,0 +1,210 @@
+Which keyword is used to define a function in Python?
+func
+define
+def
+function
+3
+---
+What is the output of: print(type(10))?
+<class 'float'>
+<class 'int'>
+<class 'str'>
+<class 'bool'>
+2
+---
+Which symbol is used for comments in Python?
+//
+#
+/* */
+/\
+2
+---
+Which data type is immutable in Python?
+list
+dict
+set
+tuple
+4
+---
+What is the output of: print(2 ** 3)?
+6
+8
+9
+5
+2
+---
+Which function is used to get user input in Python?
+input()
+scan()
+read()
+get()
+1
+---
+What is the correct file extension for Python files?
+.py
+.pyt
+.pt
+.python
+1
+---
+Which keyword is used to create a class in Python?
+function
+define
+class
+struct
+3
+---
+What is the output of: print(len("Python"))?
+5
+6
+7
+4
+2
+---
+Which of the following is a Python loop?
+repeat
+loop
+for
+iterate
+3
+---
+What does the break statement do?
+Skips iteration
+Stops loop
+Restarts loop
+Pauses loop
+2
+---
+Which operator is used for floor division?
+/
+%
+//
+**
+3
+---
+What is the output of: print(5 == 5)?
+False
+0
+True
+None
+3
+---
+Which data type stores key-value pairs?
+list
+tuple
+set
+dictionary
+4
+---
+Which keyword is used to handle exceptions?
+try
+catch
+throw
+error
+1
+---
+What is the output of: print(bool(0))?
+True
+False
+0
+Error
+2
+---
+Which method adds an element to a list?
+add()
+append()
+insert()
+push()
+2
+---
+What is the output of: print(type([]))?
+<class 'tuple'>
+<class 'set'>
+<class 'list'>
+<class 'dict'>
+3
+---
+Which keyword is used to import modules?
+include
+import
+require
+using
+2
+---
+What is the output of: print(10 % 3)?
+1
+3
+0
+10
+1
+---
+Which of the following is a valid variable name?
+2value
+value_2
+value-2
+$value
+2
+---
+What does the continue statement do?
+Stops loop
+Exits program
+Skips current iteration
+Restarts loop
+3
+---
+Which function converts string to integer?
+int()
+str()
+float()
+eval()
+1
+---
+What is the output of: print("Hi" * 3)?
+Hi3
+HiHiHi
+3Hi
+Error
+2
+---
+Which keyword is used to define a lambda function?
+lambda
+def
+func
+anonymous
+1
+---
+What is the default return value of a function?
+0
+None
+False
+True
+2
+---
+Which collection does not allow duplicate values?
+list
+tuple
+dictionary
+set
+4
+---
+What is the output of: print(type(()))?
+<class 'list'>
+<class 'set'>
+<class 'tuple'>
+<class 'dict'>
+3
+---
+Which statement is used to stop a program?
+exit
+stop
+quit
+return
+3
+---
+Which function is used to find the maximum value?
+max()
+top()
+high()
+maximum()
+1
+---
