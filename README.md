@@ -35,7 +35,7 @@ This application allows users to take timed quizzes across multiple topics such 
 ## Compile From Source
 gcc apti.c -o apti.exe
 
-##🎮 Controls
+## 🎮 Controls
 
 • 1 – 4 : Select an option
 • Enter : Confirm selection
@@ -50,7 +50,7 @@ Aptitude-Assessment-System/
 ├── questions/      # Question files for each category
 └── apti_v2.exe     # Precompiled executable (Windows)
 
-##🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 🔐 User login and score history
 
@@ -79,6 +79,3 @@ Practical exposure to console-based application design
 Kiran S S
 MCA Student
 GitHub: https://github.com/kiranss7
-
-```powershell
-.\apti_v2.exe
